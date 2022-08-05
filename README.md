@@ -11,11 +11,13 @@ You can use this repository with [Maven](https://www.jetbrains.com/idea/guide/tu
     </repository>
   </repositories>
   
-  <dependency>
-    <groupId>com.github.joewuthrich</groupId>
-    <artifactId>EncraftedAPI</artifactId>
-    <version>Tag</version>
-  </dependency>
+  <dependencies>
+    <dependency>
+     <groupId>com.github.joewuthrich</groupId>
+     <artifactId>EncraftedAPI</artifactId>
+     <version>Tag</version>
+    </dependency>
+  </dependencies>
 ```
 
 You can use this, along with the [docs](https://javadocs.encrafted.net) and [javadocs](https://javadocs.encrafted.net), to create and submit spells for the server.
