@@ -15,7 +15,7 @@ You can use this repository with [Maven](https://www.jetbrains.com/idea/guide/tu
     <dependency>
      <groupId>com.github.joewuthrich</groupId>
      <artifactId>EncraftedAPI</artifactId>
-     <version>Tag</version>
+     <version>9cb6291d6b</version>
     </dependency>
   </dependencies>
 ```
